@@ -21,3 +21,10 @@ const bigNumber = 13241235245234535634563456666n
 
 
 const heros =[ "Shaktiman", "naagaraj"]
+
+// let value = null ?? "default value "
+// console.log(value)
+
+///////////+++++++++++++++++++
+
+// Stack (Premitive), Heap(Non-Premitive)
